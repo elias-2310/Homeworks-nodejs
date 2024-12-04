@@ -7,6 +7,8 @@ function countZeros(arr) {
   }
   
   const numbers = [1, 0, 4, 0, 5, -3, 0, 7];
-  console.log(countZeros(numbers)); 
+  console.log(countZeros(numbers));
+//Elias mzlabt && Mohmad mansour 
+ 
   
   
