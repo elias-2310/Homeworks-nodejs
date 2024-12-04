@@ -15,4 +15,5 @@ function isPrime(num) {
   }
   
  fun1();
-  
+  //Elias mzlabt && Mohmad mansour 
+ 
